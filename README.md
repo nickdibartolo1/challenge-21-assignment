@@ -1,10 +1,14 @@
 ## Title
-# Challenge-21-assignment:
+# Challenge-21-assignment: MERN: Book Search Engine
 
 ## Description
 x
 ## User Story
-x
+```md
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase
+```
 ## Table of Contents
 - [Challenge-19-assignment: Progressive Web Applications (PWA) Text Editor ](#challenge-19-assignment: (PWA) )
   - [Description](#description)
